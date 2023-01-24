@@ -73,6 +73,7 @@ class ExperienceDataTable extends DataTable
             ],
             [
                 'data' => 'e_provider.name',
+                'name' => 'eProvider.name',
                 'title' => trans('lang.experience_e_provider_id'),
 
             ],

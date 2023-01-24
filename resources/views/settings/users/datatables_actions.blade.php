@@ -17,7 +17,7 @@
     <div class="dropdown">
         <a class="btn btn-link btn-sm dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
             <i class="fas fa-cog"></i> </a>
-        <div class="dropdown-menu">
+        <div class="dropdown-menu" style="font-size: 13px;">
             <a class='dropdown-item' href="{{ route('users.login-as-user', $id) }}"> <i class="fas fa-sign-in mr-1"></i> {{trans('lang.user_login_as_user')}}
             </a>
 

@@ -90,6 +90,7 @@ class OptionDataTable extends DataTable
             ],
             [
                 'data' => 'e_service.name',
+                'name' => 'eService.name',
                 'title' => trans('lang.e_service'),
 
             ],

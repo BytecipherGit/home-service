@@ -74,6 +74,7 @@ class AwardDataTable extends DataTable
             ],
             [
                 'data' => 'e_provider.name',
+                'name' => 'eProvider.name',
                 'title' => trans('lang.award_e_provider_id'),
 
             ],
